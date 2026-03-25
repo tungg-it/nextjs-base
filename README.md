@@ -111,6 +111,10 @@ cd <your-repo-folder>
 2. **Install dependencies**
 
 ```bash
+// update latest version (optional)
+pnpm update --latest
+
+// install package
 pnpm install
 ```
 
